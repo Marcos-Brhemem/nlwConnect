@@ -14,6 +14,8 @@
 <h2 id="technologies">💻 Technologies</h2>
 
 - Java (Spring boot).
+- Docker.
+- MySql.
 
 <h2 id="started">🚀 Getting started</h2>
 
